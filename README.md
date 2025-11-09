@@ -9,7 +9,7 @@ It visualises visa issuance patterns, nationality distributions, and student–d
 - Interactive **Streamlit dashboard** for real-time data exploration  
 - Designed for clarity and impact — aligned with UK data-science portfolio standards  
 
-## 🧠 Technologies
+## 🧠 Tech Stack
 - Python (Pandas, Matplotlib, Seaborn, Plotly)
 - Streamlit (for dashboard interactivity)
 - Jupyter Notebook
